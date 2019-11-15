@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nicholas Reid\\source\\repos\\CSCI-495-Semester-Project-master\\OracleDB_Access_Console\\OracleDB_Access_Console\\OracleDB_Access_Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nicholas Reid\\source\\repos\\CSCI-495-Semester-Project-master\\OracleDB_Access_Console\\OracleDB_Access_Console\\OracleDB_Access_Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nicholas Reid\\source\\repos\\CSCI-495-Semester-Project-master\\OracleDB_Access_Console\\OracleDB_Access_Console\\OracleDB_Access_Console.csproj",
+        "projectName": "OracleDB_Access_Console",
+        "projectPath": "C:\\Users\\Nicholas Reid\\source\\repos\\CSCI-495-Semester-Project-master\\OracleDB_Access_Console\\OracleDB_Access_Console\\OracleDB_Access_Console.csproj",
+        "packagesPath": "C:\\Users\\Nicholas Reid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicholas Reid\\source\\repos\\CSCI-495-Semester-Project-master\\OracleDB_Access_Console\\OracleDB_Access_Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicholas Reid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
